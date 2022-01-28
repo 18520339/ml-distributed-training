@@ -1,1 +1,1 @@
-# parameter-server-training
+# keras-distributed-training
